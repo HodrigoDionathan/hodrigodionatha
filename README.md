@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/hodrigodionatha?style=social)](https://github.com/seu-usuario)
+  [![GitHub followers](https://img.shields.io/github/followers/hodrigodionathan?style=social)](https://github.com/seu-usuario)
   [![Twitter Follow](https://img.shields.io/twitter/follow/seu-usuario?style=social)](https://twitter.com/seu-usuario)
   
 </div>
