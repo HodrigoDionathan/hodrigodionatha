@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hódrigo Dionathan Alves Santos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web;Apaixonado+por+Tecnologia;Sempre+Aprendendo&center=true&width=380&height=45">
 </p>
 
 <div align="center">
