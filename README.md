@@ -9,7 +9,7 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/hodrigodionathan?style=social)](https://github.com/HodrigoDionathan)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/addisonmchenry?style=social)](https://twitter.com/adddisonmchenry)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/addisonmchenry?style=social)](https://twitter.com/addisonmchenry)
   
 </div>
 
